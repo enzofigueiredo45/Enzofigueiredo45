@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi there, I'm Enzo Figueiredo </h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**enzofigueiredo45/Enzofigueiredo45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechatronics Technician ** at Etec from São José do Rio Preto - SP - Brazil 
+<br>
+**Graduating in Computer Engineering ** at Great Lakes Colleges Union - SJRP - SP - Brazil 
+<br>
 
-Here are some ideas to get you started:
+**Mechanical Technician ** at Mills
+<br><br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-figueiredo-7abb3223a/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/enzofigueredo45)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+> “The art of programming consists of organizing and mastering complexity.”
+― Edsger W. Dijkstra
+
+<br>
